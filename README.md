@@ -1,1 +1,1 @@
-This is artofcoding's github page
+api.art-of-coding.eu
